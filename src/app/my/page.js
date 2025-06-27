@@ -1,4 +1,4 @@
-import { AsuncDatabase } from "promised-sqlite3";
+import { AsyncDatabase } from "promised-sqlite3";
 
 // this assumes you are logged as user 1
 export default async function MyNotes() {
